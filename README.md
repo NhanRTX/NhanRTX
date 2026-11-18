@@ -7,7 +7,7 @@
 ---
 
 ###  Công nghệ & Công cụ (Tech Stack)
-- **Ngôn ngữ:** Python,C++**
+- **Ngôn ngữ:** Python,C++
 - **AI / Computer Vision:** OpenCV, Ultralytics (YOLOv8), TensorFlow / TFLite *(thêm PyTorch, Scikit-learn... nếu có dùng)*
 - **Triển khai & Công cụ:** Gradio, Git, Google Colab *(thêm Docker, FastAPI... nếu có dùng)*
 
