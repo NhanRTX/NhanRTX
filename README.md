@@ -1,6 +1,6 @@
 ### Xin chào, mình là Thành Nhân Nguyễn 
 
--  Sinh viên ngành **Robotics và Trí tuệ nhân tạo** tại **Đại học Kinh tế TP. Hồ Chí Minh (UEH)** *(TP. Hồ Chí Minh)*
+-  Sinh viên ngành **Robotics và Trí tuệ nhân tạo** tại **Đại học Kinh tế TP. Hồ Chí Minh (UEH)**
 -  Đang tìm kiếm cơ hội **Thực tập sinh AI / Computer Vision**
 -  Quan tâm đến các bài toán: **Object Detection, Image Classification, xử lý ảnh thực tế**
 
