@@ -7,10 +7,9 @@
 ---
 
 ###  Công nghệ & Công cụ (Tech Stack)
-- **Ngôn ngữ:** Python,C++
-- **AI / Computer Vision:** OpenCV, Ultralytics (YOLOv8), TensorFlow / TFLite *(thêm PyTorch, Scikit-learn... nếu có dùng)*
-- **Triển khai & Công cụ:** Gradio, Git, Google Colab *(thêm Docker, FastAPI... nếu có dùng)*
-
+- **Ngôn ngữ:** Python, C++
+- **AI / Computer Vision:** PyTorch, TensorFlow / TFLite, Ultralytics (YOLOv8), OpenCV, Scikit-learn
+- **Triển khai & Công cụ:** Docker, Gradio, Git, Google Colab, Kaggle, VMware Workstation
 ---
 
 ###  Dự án tiêu biểu
@@ -19,5 +18,4 @@
 ---
 
 ###  Liên hệ
-- **Email:** thanhnhan18282@gmail.com
-- **LinkedIn:** [Thêm link LinkedIn của bạn vào đây nếu có, hoặc xóa dòng này]
+- **Email:** teoon828@gmail.com
